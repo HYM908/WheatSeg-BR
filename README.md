@@ -38,9 +38,9 @@ WheatSeg-BR/
 │   ├── ...
 │
 ├── data/                   # Example point cloud data
-│   ├── sample_1.*
-│   ├── sample_2.*
-│   └── sample_3.*
+│   ├── data1.*
+│   ├── data2.*
+│   └── data3.*
 │
 ├── README.md               # Project description
 └── requirements.txt        # Python dependencies
